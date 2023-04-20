@@ -1,0 +1,1 @@
+El codigo de chat gpt es mucho mas corto que el mio, pero si ingresamos el rut con punto o guion, este vuelve a preguntar, en cambio el mio viene codificado para que este elimine los puntos y guion, ademas el de GPT no hace el proceso de eliminar el codigo verificador, ya que no lo pide por consola.
